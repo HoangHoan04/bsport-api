@@ -1,0 +1,10 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "BSport Admin API",
+    "description": "API dành cho trang quản trị Admin",
+    "version": "v1"
+  },
+  "paths": { },
+  "components": { }
+}

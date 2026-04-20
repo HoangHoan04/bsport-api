@@ -1,0 +1,11 @@
+F:\Project\Bsport\bsport-api\bsport.Domain\bin\Debug\net10.0\bsport.Domain.deps.json
+F:\Project\Bsport\bsport-api\bsport.Domain\bin\Debug\net10.0\bsport.Domain.dll
+F:\Project\Bsport\bsport-api\bsport.Domain\bin\Debug\net10.0\bsport.Domain.pdb
+F:\Project\Bsport\bsport-api\bsport.Domain\obj\Debug\net10.0\bsport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Bsport\bsport-api\bsport.Domain\obj\Debug\net10.0\bsport.Domain.AssemblyInfoInputs.cache
+F:\Project\Bsport\bsport-api\bsport.Domain\obj\Debug\net10.0\bsport.Domain.AssemblyInfo.cs
+F:\Project\Bsport\bsport-api\bsport.Domain\obj\Debug\net10.0\bsport.Domain.csproj.CoreCompileInputs.cache
+F:\Project\Bsport\bsport-api\bsport.Domain\obj\Debug\net10.0\bsport.Domain.dll
+F:\Project\Bsport\bsport-api\bsport.Domain\obj\Debug\net10.0\refint\bsport.Domain.dll
+F:\Project\Bsport\bsport-api\bsport.Domain\obj\Debug\net10.0\bsport.Domain.pdb
+F:\Project\Bsport\bsport-api\bsport.Domain\obj\Debug\net10.0\ref\bsport.Domain.dll

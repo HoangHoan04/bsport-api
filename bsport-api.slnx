@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="bsport.Api/bsport.Api.csproj" Id="e3f07557-66da-4232-8289-2751bf9a26c0" />
+  <Project Path="bsport.Application/bsport.Application.csproj" Id="6b628805-6374-4071-9434-e2405585d54b" />
+  <Project Path="bsport.Domain/bsport.Domain.csproj" Id="f515f91a-987b-4610-984a-52228b1bb698" />
+  <Project Path="bsport.Infrastructure/bsport.Infrastructure.csproj" Id="37bac364-8548-42ec-b56f-2e6353f30290" />
+</Solution>

@@ -1,0 +1,15 @@
+F:\Project\Bsport\bsport-api\bsport.Application\bin\Debug\net10.0\bsport.Application.deps.json
+F:\Project\Bsport\bsport-api\bsport.Application\bin\Debug\net10.0\bsport.Application.dll
+F:\Project\Bsport\bsport-api\bsport.Application\bin\Debug\net10.0\bsport.Application.pdb
+F:\Project\Bsport\bsport-api\bsport.Application\bin\Debug\net10.0\bsport.Domain.dll
+F:\Project\Bsport\bsport-api\bsport.Application\bin\Debug\net10.0\bsport.Domain.pdb
+F:\Project\Bsport\bsport-api\bsport.Application\obj\Debug\net10.0\bsport.Application.csproj.AssemblyReference.cache
+F:\Project\Bsport\bsport-api\bsport.Application\obj\Debug\net10.0\bsport.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Bsport\bsport-api\bsport.Application\obj\Debug\net10.0\bsport.Application.AssemblyInfoInputs.cache
+F:\Project\Bsport\bsport-api\bsport.Application\obj\Debug\net10.0\bsport.Application.AssemblyInfo.cs
+F:\Project\Bsport\bsport-api\bsport.Application\obj\Debug\net10.0\bsport.Application.csproj.CoreCompileInputs.cache
+F:\Project\Bsport\bsport-api\bsport.Application\obj\Debug\net10.0\bsport.A.2E6D7E3B.Up2Date
+F:\Project\Bsport\bsport-api\bsport.Application\obj\Debug\net10.0\bsport.Application.dll
+F:\Project\Bsport\bsport-api\bsport.Application\obj\Debug\net10.0\refint\bsport.Application.dll
+F:\Project\Bsport\bsport-api\bsport.Application\obj\Debug\net10.0\bsport.Application.pdb
+F:\Project\Bsport\bsport-api\bsport.Application\obj\Debug\net10.0\ref\bsport.Application.dll

@@ -1,0 +1,10 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "BSport Client API",
+    "description": "API dành cho Website khách hàng",
+    "version": "v1"
+  },
+  "paths": { },
+  "components": { }
+}
